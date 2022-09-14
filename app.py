@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("hello")
+st.file_uploader("ファイルアップロード", type='csv')
